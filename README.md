@@ -16,9 +16,7 @@ Instead of pyttsx3 module, you can also use gTTS module too.
       - **Pyaudio** PyAudio is required if you want to use microphone input (Microphone). PyAudio version 0.2.11+ is required, as earlier   versions have known memory management bugs when recording from microphones in certain situations.
       - **Google API Client Library for Python** required only if you need to use the Google Clouds Speech API      
       
-  3. **Wikipedia** : Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia. Type the following command in terminal for installation.           
-  
-                    pip install wikipedia
+  3. **Wikipedia** : Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia. Type the following command in terminal for installation.          
           
  4. **Webbroswer** : Webbrowser module provides a high-level interface which allows displaying Web-based documents to users.
   
@@ -27,5 +25,3 @@ Instead of pyttsx3 module, you can also use gTTS module too.
 # Limitation and Solution
 
 If a command different from the mentioned command is given no output is obtained. For example if you ask it "How you doing?" instead of "How are you?", it will not respond. But this minor problem can be eradicated by writing another else if condition or mending the previous condition by using "or" operator if the output is same just like in above case. 
-
-
