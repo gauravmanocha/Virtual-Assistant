@@ -16,7 +16,7 @@ Instead of pyttsx3 module, you can also use gTTS module too.
       - **Pyaudio** PyAudio is required if you want to use microphone input (Microphone). PyAudio version 0.2.11+ is required, as earlier   versions have known memory management bugs when recording from microphones in certain situations.
       - **Google API Client Library for Python** required only if you need to use the Google Clouds Speech API      
       
-  3. **Wikipedia** : Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia. Type following command for installation          > 
+  3. **Wikipedia** : Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia. Type the following command in terminal for installation.           
   
                     pip install wikipedia
           
